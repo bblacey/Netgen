@@ -21,7 +21,6 @@
 #include "Poly_Triangle.hxx"
 #include "Poly_Polygon3D.hxx"
 #include "Poly_PolygonOnTriangulation.hxx"
-#include "Bnd_Box.hxx"
 
 #include <visual.hpp>
 

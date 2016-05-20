@@ -72,7 +72,7 @@ static int nbe = 0;
 #ifdef WIN32
 #define M_PI 3.14159265358979323846
 #endif 
-#define PI 3.14159265358979323846
+
 //=======================================================================
 //function : Partition_Loop
 //purpose  : 
